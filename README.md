@@ -7,3 +7,6 @@ Merged without review.
 ## Pull Shark
 
 Second merged pull request.
+## Pair Extraordinaire
+
+Collaborative update with co-author.
